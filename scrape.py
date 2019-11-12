@@ -7,13 +7,6 @@ from selenium import webdriver
 import time
 import pandas as pd
 
-# Initiate Browser instance
-#executable_path = {"executable_path":"chromedriver.exe"}
-#browser = Browser("chrome", **executable_path, headless=False)
-
-# Visit the url
-#url = "https://www.privateislandsonline.com/search?region=&diversion=&availability=sale&price_range=0%3A50000000&size_range=0%3A1000&q=&view%5B%5D=1&type%5Bprivate_island%5D=1&lifestyles%5Blarge_acreage%5D=1&lifestyles%5Bocean_island%5D=1&order=price_usd%3ADESC&order=price_usd%3ADESC&type%5Bprivate_island%5D=1"
-#browser.visit(url)
 def scrape(browser):
     # Set up SOUP object
     html = browser.html
@@ -26,6 +19,7 @@ def scrape(browser):
     for grid in soup.find_all(attrs={'class': 'grid-content island-content'}):
         # Get the name
         name = grid.find(attrs={'class': 'name'}).text.strip()
+        name = name.replace(".", "")
         names.append(name)
 
         # Get the acreage
@@ -44,10 +38,7 @@ def scrape(browser):
             except Exception:
                 countrys.append("NA")
 
-    print(names)
-    print(acres)
-    print(countrys)
-    
+    # Create a dataframe
     df = pd.DataFrame({"Island_Name": names,
                     "Acreage": acres,
                     "Country": countrys})

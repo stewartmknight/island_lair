@@ -40,7 +40,7 @@ Frozen Cay and Alder Cay,84,Bahamas
 Kanacea Island,3085,Fiji
 Nusa Riro,22,Solomon Islands
 Leaf Cay Private Residences,15,Bahamas
-St. Phillips Island,4680,South Carolina
+St Phillips Island,4680,South Carolina
 Pakatoa Island,60,New Zealand
 Broad Key,63,Florida
 Whale Cay,575,Bahamas
@@ -55,10 +55,10 @@ Violin Island,321,Mexico
 Gumelemi Cay,8,Bahamas
 Hopkins Island,13,Florida
 Frozen Cay,40,Bahamas
-St. Thomas,300,Greece
+St Thomas,300,Greece
 Charles Island,55,Bahamas
 World Island Project (D98),12,United Arab Emirates
-St. John's Island,750,Greece
+St John's Island,750,Greece
 Palm Island,4,Florida
 Cebaco Island,7410,Panama
 "Blackbook Listing
@@ -120,7 +120,7 @@ Aese Island,1690,Vanuatu
 Sand Dollar Cay,24,Bahamas
 Motu Rauoro,18,French Polynesia
 Sawyer's Cay,6,Bahamas
-Bonefish Cay 13.5-acres,14,Bahamas
+Bonefish Cay 135-acres,14,Bahamas
 Bird Island,51,Florida
 "Blackbook Listing
 (2534)",0,US Virgin Islands
@@ -150,7 +150,7 @@ Goat Cay,7,Bahamas
 Clapboard Island,22,Maine
 Big Fish Cay,55,Bahamas
 "Hawks Nest Cay, 26 acres",26,Bahamas
-6.5-Acre Private Island Resort,7,Belize
+65-Acre Private Island Resort,7,Belize
 Valiha Island,950,Madagascar
 Cerboli Island,10,Italy
 Lake Saimaa Development,256,Finland
@@ -241,7 +241,7 @@ Ilha de Sao Joao,5,Brazil
 Pimlico Island,55,Bahamas
 West Ballenas Island,100,British Columbia
 Bijela Island,8,Croatia
-2.65 Acre Private Island,3,Belize
+265 Acre Private Island,3,Belize
 Paces Mill Island,45,North Carolina
 Tinabian Island,99,Philippines
 Isla Lacao,206,Chile
@@ -344,7 +344,7 @@ Burts Island,5,British Columbia
 Campbell Island,97,New York
 Isla Quiros,4,Panama
 Isle of Navaro,9,Panama
-"4.3-Acre Island off Riversdale, Placencia",4,Belize
+"43-Acre Island off Riversdale, Placencia",4,Belize
 Opal Caye,5,Belize
 Virginia Caye,4,Belize
 Johnson Island Alderson,36,West Virginia
@@ -366,7 +366,7 @@ Wild Cane Key,3,Panama
 Sunset Island,0,Belize
 Tahifehifa Island,1,Tonga
 Standerson Island,27,Michigan
-Deadman Caye 1.4 acres,1,Belize
+Deadman Caye 14 acres,1,Belize
 Gullah Island,3,South Carolina
 Little Gaulding Cay,2,Bahamas
 Richards Island,30,Nova Scotia
@@ -375,7 +375,7 @@ Lizzies Cove Island,7,British Columbia
 Middle Island,38,Nova Scotia
 Frigate Caye,1,Belize
 No Mans Island,19,New Jersey
-Deadman Caye .699acres,1,Belize
+Deadman Caye 699acres,1,Belize
 Angus Island,15,Nova Scotia
 Bear Island,7,Nova Scotia
 Wee Wee Caye,2,Belize
@@ -385,7 +385,7 @@ Mannions Island,4,Ireland
 Calf Island,26,Nova Scotia
 Orchid Islands,1,Belize
 Long Island,92,Nova Scotia
-Deadman Caye .941 acres,1,Belize
+Deadman Caye 941 acres,1,Belize
 Leader Island,11,Nova Scotia
 Hangover Island,40,Florida
 Bone Fish Caye,0,Belize
@@ -416,4 +416,4 @@ Jewel Caye,2,Belize
 Laguna Azul,2,Panama
 Wadigi Island,0,Fiji
 Funk Caye,3,Belize
-2.6-Acre Island in Blue Ground Range,3,Belize
+26-Acre Island in Blue Ground Range,3,Belize
